@@ -1,0 +1,12 @@
+sources;detail;Distance (kpc);nu (GHz);Width [s];Jy
+XTEJ1810-197;(Bailes 20);3.5;8.35e-1;1e-02;50
+XTEJ1810-197;(Camilo 07);3.5;88;2e-03;45
+XTEJ1810-197;(Camilo 06);3.5;42;1.3e-03;25
+1E1547-5408;(Deller 2012);6;2.3;2e-01;1e-01
+PSRJ1622-4950;;9;3.1;2.6e-02;1.0e-02
+SwiftJ1808.0-1607;(Lower) (We take the distance and width between the values reported in the doc);5;2.5;2.5e-03;5e-01
+SwiftJ1808.0-1607;(Exposito) (We take the distance between the values reported in the doc);5;1.5;1e-02;1e-01
+SGR1745-2900;(Perlman 18);8;8.4;1.8e-03;4
+SGR1745-2900;(Lynch);8;8.7;1e-02;1.2
+PSRJ1119-6127;(Majid 17);8.4;8.4;1.6e-02;0.5
+PSRJ1119-6127;(Veltevrede 11);8.4;1.4;1.3e-04;0.6

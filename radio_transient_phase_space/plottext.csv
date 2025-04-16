@@ -1,0 +1,23 @@
+text,x,y,color
+Pulsars,1e-7,1e-2,#0000FF
+Crab Nano-Shots,2e-9,5e2,k
+Pulsar Giant Radio Pulses,3e-8,4e5,#6A5ACD
+Rotating\nRadio\nTransients,5e-6,1e-1,#FF0000
+Fast Radio Bursts,1e-4,1e15,k
+Solar Bursts,1e0,5e-6,#FFA500
+!GCRT J1745,1e1,6e2,#8B4513
+!GCRT J1745,1e1,6e2,purple
+SGR J1935+2154,1.0e-4,2.0e7,#78B3A7
+Flare Stars/Brown Dwarves,10,8.0e-9,#8B4513
+Jupiter Decametric Emission,1e-5,8.0e-10,#8B4513
+X-ray Binaries,3.0e4,2.0e-1,#CD853F
+Active Galactic Nucleus\nBlazar\nQuasars,2.0e3,8.0e+13,#0000FF
+Gamma-ray Bursts,3.0e5,1.0e+10,#9500ff
+Supernovae,1.0e7,4.0e+5,#808080
+!GW170817,1.0e7,3.0e+4,#9500ff
+RS Canum\nVenaticorum Variables,2e5,1.5e-4,k
+Novae,1.0e8,1.0,#228bff
+Magnetic\nCataclysmic Variables,1.0e4,5.0e-6,#228B22
+!LPTs,2e-1,1e-3,purple
+!Long Period Transients,8e-2,5e2,purple
+!Magnetar,1e-3,1e3,#78B3A7
