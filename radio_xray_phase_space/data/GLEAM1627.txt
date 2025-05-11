@@ -1,0 +1,8 @@
+# The bursts are variable from 5-40 Jy, were observed at 72-231MHz
+# and had a spectral index of -1.16, take GM of the energy and BW
+# and get flux at 1400 MHz as 1.1 Jy, but this is peak flux.
+# The burst duration is 30-60s and the period is 18.18min, so get
+# period averaged flux to be 60 mJy.
+# Radio flux density is in mJy, X-ray flux is 
+Name	radio	xray	d	ref
+J1627	60	1.9e-13	1.3	https://www.nature.com/articles/s41586-021-04272-x	

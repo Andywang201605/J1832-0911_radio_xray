@@ -1,0 +1,8 @@
+# The flux densities in the paper are peak flux densities, so
+# we need to convert them to period-averaged. For ASKAP, the peak 
+# is 119 mJy with a ~min with and 54 min period, so get flux=2.2mJy.
+# and for meerKAT the peak is 9 mJy with 0.01% duty cycle, 
+# so get flux=9e-4 mJy. X-ray flux is in erg/s and dis in in kpc
+Name	radio	xray	d
+J1935	2.2	1.7e-15	4.85
+J1935	0.0009	1.7e-15	4.85

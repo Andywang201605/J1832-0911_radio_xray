@@ -1,0 +1,87 @@
+# Created: 2024-09-17T09:33:25.969350
+# PINT_version: 1.0.1+117.ge2cfa6b4
+# User: Andrew (zic006)
+# Host: petrichor-login
+# OS: Linux-5.14.21-150400.24.28-default-x86_64-with-glibc2.28
+# Python: 3.10.13 (main, Aug 24 2024, 14:15:58) [GCC 8.5.0 20210514 (Red Hat 8.5.0-4)]
+# Format: pint
+PSRJ                           J1832-0911
+EPHEM                               DE440
+CLK                               TT(TAI)
+UNITS                                 TDB
+START              60384.7589838239200010
+FINISH             60525.5888249776099990
+TIMEEPH                              FB90
+T2CMETHOD                        IAU2000B
+DILATEFREQ                              N
+DMDATA                                  N
+NTOA                                   42
+CHI2R                              0.0497 0 40.0
+TRES                         10290621.829
+RAJ                     18:32:48.41000000 0 0.00000000000000000000
+DECJ                    -9:11:15.82000000 0 0.00000000000000000000
+PMRA                                  0.0
+PMDEC                                 0.0
+PX                                    0.0
+POSEPOCH           60343.9997333106057269
+#F0              0.00037647255831138793814 1 1.242428499464099484e-10
+F0               0.0003764718329934308 0 5e-11
+F1                                    0.0 0 1.00000003101039607553e-16
+PEPOCH             60343.9997333106057269
+CORRECT_TROPOSPHERE                         Y
+PLANET_SHAPIRO                          Y
+NE_SW                   4.000000124041584
+SWM                                     0
+DM                                    430.0 0 1.0000000155051979176e-05
+DMEPOCH            60343.9997333106057269
+TZRMJD             60487.4967186905437847
+TZRSITE                               mwa
+TZRFRQ                  943.4907407407384
+JUMP            -j sb64280                       0.0 0 0.0
+JUMP            -j sb64345                       0.0 0 0.0
+# EQUAD g meerkat     3e7 1 1e7
+# EQUAD g gmrt        3e7 1 1e7
+# EQUAD g atca        3e7 1 1e7
+# EQUAD g askap       3e7 1 1e7
+# EQUAD g vlba_C      3e7 1 1e7
+# EQUAD g vlba_L      3e7 0
+# EFAC g meerkat  1.0 0
+# EFAC g gmrt     1.0 0
+# EFAC g atca     1.0 0
+# EFAC g askap    1.0 0
+# EFAC g vlba_C   1.0 0
+# EFAC g vlba_L   1.0 0
+#EQUAD f epoch1_SB55237_J1832-09     3e7 0 1e7
+EQUAD f   o1.ULP.cal3.sub_ds       3e7 1 1e7
+EQUAD f   o2.ULP.cal3.sub_ds       3e7 1 1e7    
+EQUAD f   epoch2_sb58387_J1832-09  3e7 1 1e7
+EQUAD f   epoch3_sb58609_J1832-09  3e7 1 1e7
+EQUAD f   epoch4_sb58753_J1832-09  3e7 1 1e7
+#EQUAD f   epoch5_sb59601_J1832-09  3e7 1 1e7
+#EQUAD f   epoch6_sb59659_J1832-09  3e7 1 1e7
+EQUAD f   1723396099_sdp_l0        3e7 1 1e7
+EQUAD f   J1832-09_epoch7_sb60091  3e7 1 1e7
+EQUAD f   J1832-09_epoch8_sb63296  3e7 1 1e7
+EQUAD f   J1832-09_sb64280_ds      3e7 1 1e7
+EQUAD f   J1832-09_sb64328_ds      3e7 1 1e7
+EQUAD f   J1832-09_sb64345_ds      3e7 1 1e7
+EQUAD f   ddtC341_e1_b4            3e7 1 1e7
+EQUAD f   vlba_C                   3e7 1 1e7
+EQUAD f   240630_tim_dat           3e7 1 1e7
+#EFAC f epoch1_SB55237_J1832-09   1.0 0
+EFAC f   o1.ULP.cal3.sub_ds       1.0 0
+EFAC f   o2.ULP.cal3.sub_ds       1.0 0
+EFAC f   epoch2_sb58387_J1832-09  1.0 0
+EFAC f   epoch3_sb58609_J1832-09  1.0 0
+EFAC f   epoch4_sb58753_J1832-09  1.0 0
+#EFAC f   epoch5_sb59601_J1832-09  1.0 0
+#EFAC f   epoch6_sb59659_J1832-09  1.0 0
+EFAC f   1723396099_sdp_l0        1.0 0
+EFAC f   J1832-09_epoch7_sb60091  1.0 0
+EFAC f   J1832-09_epoch8_sb63296  1.0 0
+EFAC f   J1832-09_sb64280_ds      1.0 0
+EFAC f   J1832-09_sb64328_ds      1.0 0
+EFAC f   J1832-09_sb64345_ds      1.0 0
+EFAC f   ddtC341_e1_b4            1.0 0    
+EFAC f   vlba_C                   1.0 0
+EFAC f   240630_tim_dat           1.0 0

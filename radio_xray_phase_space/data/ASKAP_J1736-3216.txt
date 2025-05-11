@@ -1,0 +1,4 @@
+# Radio flux density is in mJy, X-ray is in erg/cm^2/s.
+# distance is in kpc (since GCRT assume 8.5).
+Name	radio	xray	d
+J1736	5.67	2e-13	8.5

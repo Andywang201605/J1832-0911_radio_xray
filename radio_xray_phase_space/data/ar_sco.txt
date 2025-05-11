@@ -1,0 +1,5 @@
+# The radio flux density (in mJy) is estimated from VLA FIRST
+# image (which is 3min in duration) and hence averages over the
+# 2 min period. X-ray flux is in erg/s and distance is in kpc.
+Name	radio	xray	d	ref
+AR Sco	8	3e-12	0.116	https://iopscience.iop.org/article/10.3847/1538-4357/aaa23d,https://arxiv.org/abs/1607.08265

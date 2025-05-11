@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+**/.DS_Store
+
+# data folders
+# **/data/*
+**/tmp/*
+**/.data/*
+
+*share.ipynb
+
 # C extensions
 *.so
 

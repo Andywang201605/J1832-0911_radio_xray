@@ -656,7 +656,7 @@ def plot_gcrts(ax, ratio=False):
 
 ### add text...
 def add_text(ax, ratio=False):
-    ax.text(1e0, 0.5e30, "Pulsars",   color=colors["pulsar"], alpha=0.75)
+    ax.text(8e0, 1.5e29, "Pulsars",   color=colors["pulsar"], alpha=0.75)
     ax.text(0.5e-2, 1e36, "AMXPs",   color=colors["amxp"], alpha=0.75)
     ax.text(1e3, 1e36, "BH XRBs",   color=colors["bhxrb"], alpha=0.75)
     ax.text(1e1, 1e38, "NS XRBs",   color=colors["nsxrb"], alpha=0.75)

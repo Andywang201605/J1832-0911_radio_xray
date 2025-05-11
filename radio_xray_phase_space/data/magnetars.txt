@@ -1,0 +1,23 @@
+# Notes on individual objects:
+# PSR J1622-4950: there are at least three different states, one is the discovery in radio
+# where the radio pulsations were discovered and X-ray were not. Second is the "normal" magnetar
+# state where both X-ray and radio pulsations are discovered and third is quiscenece 
+# SGR 1745-2900 Lynch et al (2015) and a few other report the burts and the recovery
+# SGR 1935+2154 reported radio + X-ray data for the FRB outbursts (from STARES, FAST) and then
+# FAST collaboration reported forest of bursts showing periodic emission
+# X-ray flux is in erg/cm^2/s, radio flux density is in mJy, distance is in kpc, upp of 0 is
+# detection.
+Name Fxray Fradio d upp ref mode
+"PSRJ1622-4950" 2.6e-13 4.8 9.0 0 https://ui.adsabs.harvard.edu/abs/2010ApJ...721L..33L/abstract recovery
+"PSRJ1622-4950" 8e-14 0.2 9.0 1 https://iopscience.iop.org/article/10.3847/1538-4357/aab35a quiscenece
+"PSRJ1622-4950" 1.6e-11 63 9.0 0 https://iopscience.iop.org/article/10.3847/1538-4357/aab35a burst
+"SGR1745-2900" 4.5e-11 3 8.3 0 https://iopscience.iop.org/article/10.1088/0004-637X/806/2/266 burst
+"SGR1935+2154" 2.5e-11 1500000000.0 6.6 0 https://www.astronomerstelegram.org/?read=13684 FRB
+"SGR1935+2154" 5e-11 130000000.0 6.6 0 https://arxiv.org/abs/2007.05101 FRB
+"SGR1935+2154" 4e-11 60 6.6 0 https://arxiv.org/abs/2007.05101 FRB
+"SGR1935+2154" 1.5e-12 9 6.6 0 https://ui.adsabs.harvard.edu/abs/2023arXiv230808832W/abstract quiscenece
+"J1818.0-1607" 1.5e-11 0.2 4.8 0 https://iopscience.iop.org/article/10.3847/2041-8213/ab9742/pdf recovery
+"1E1547.0-5408" 1.2e-13 0.06 4.5 1 https://arxiv.org/abs/2011.06607 quiscenece
+"1E1547.0-5408" 2e-11 2.5 4.5 0 https://ui.adsabs.harvard.edu/abs/2007ApJ...666L..93C/abstract recovery
+"1E1547.0-5408" 5e-11 1000 4.5 0 https://arxiv.org/abs/2011.06607 burst
+"XTEJ1810–189" 2.6e-10 6.0 6.1 0 https://ui.adsabs.harvard.edu/abs/2006Natur.442..892C/abstract,https://academic.oup.com/mnras/article/450/3/2915/1069491 burst

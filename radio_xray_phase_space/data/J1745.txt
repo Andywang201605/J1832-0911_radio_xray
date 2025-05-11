@@ -1,0 +1,7 @@
+# There are ~1Jy bursts with a burst width of 10min
+# and a period of 77.6 min, so get period averaged flux
+# as flux = peak * width/period which gives ~129 mJy
+# Radio flux density is in mJy, X-ray is in erg/cm^2/s.
+# The source is assumed to be close to GC, so d=8.5kpc
+Name	radio	xray	d	ref
+J1745	129	2e-11	8.5	https://www.nature.com/articles/nature03400	

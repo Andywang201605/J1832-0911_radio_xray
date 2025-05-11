@@ -1,0 +1,6 @@
+t,terr,limit,flux,err,Instrument
+55633,0,1,2.00E+30,,XMM
+57935.5,547.5,1,3.00E+32,,Swift
+60354,0,0,7.40E+32,3.50E+32,Chandra
+60524,1,1,8.00E+31,,EP
+60533,0,1,6.50E+31,,Chandra

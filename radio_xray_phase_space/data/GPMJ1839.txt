@@ -1,0 +1,6 @@
+# The bursts are variable but at ASKAP, the peak is ~350 mJy
+# If the burst is 1 min in duration and the period is 21 min.
+# we get period averaged flux to be 17 mJy.
+# Radio flux density is in mJy, X-ray flux is 
+Name	radio	xray	d	ref
+J1839	17	1.6e-13	5.7	https://www.nature.com/articles/s41586-023-06202-5

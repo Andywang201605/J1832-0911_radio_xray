@@ -1,0 +1,6 @@
+# The peak flux density is 4mJy/beam with a ~5% duty cycle
+# And the period is 5.3min, so get the period averaged flux 
+# as flux = peak * 5% = 0.2 mJy. Radio flux density is in mJy,
+# X-ray flux is in erg/cm^2/s and distance is in kpc.
+Name	radio	xray	d	ref
+J1912	0.2	3.3e-13	0.237	https://www.nature.com/articles/s41550-023-01995-x,https://www.aanda.org/articles/aa/full_html/2023/06/aa46589-23/aa46589-23.html	
